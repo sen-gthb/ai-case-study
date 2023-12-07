@@ -11,7 +11,7 @@ Kongsberg Gruppen is a Norwegian group-enterprise that develops advanced technol
 Kongsberg was founded March 20, 1814. They went public in 1993, however are mostly owned by the Norwegian government. [2] 
 
 * Who are the founders of the company?
-Poul Steenstrup [2] founded the company, which was originally called Kongsberg Våpenfabrikk (Kongsberg Arms Factory)
+Poul Steenstrup founded the company, which was originally called Kongsberg Våpenfabrikk (Kongsberg Arms Factory) [2]
 
 * How did the idea for the company (or project) come about?
 Kongsberg initially manufactured rifles for the Norwegian military, showing their early prowess for technological innovation in the late 1800s with advancements in rifle technology. They began branching out into other sectors in 1918 and continued to expand into domains of advanced technology and manufacturing through the 1970s, when they began to establish themselves as innovators in maritime and oil/gas through their work in dynamic positioning (DP) and subsea installations. Today, Kongsberg applies their advanced technologies in domains that entail "extreme conditions," from sea to space. [2, 3] The Kongsberg Gruppen is currently comprised of 3 main groups: Kongsberg Maritime [4], Kongsberg Defence & Aerospace [5], and Kongsberg Digital [6]. Each group is leveraging AI in many ways, however currently its maritime branch accounts 80% of its overall operations, so for this case study I will focus on Kongsberg Maritime (KM), particularly their DP solution. 
