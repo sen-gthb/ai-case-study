@@ -1,5 +1,4 @@
 # ai-case-study
-M1 AI Case Study
 # **KONGSBERG GRUPPEN / KONGSBERG MARITIME**
 > *Extreme Performance for Extreme Conditions*
 
