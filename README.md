@@ -83,26 +83,24 @@ They offer a range of possible solutions that could be used depending on the dom
 
 References: 
 
-[1] Kongsberg website. Retrieved from https://www.kongsberg.com/who-we-are/about-us/ 
-[2] Wikipedia. Retrieved from 
-https://en.wikipedia.org/wiki/Kongsberg_Gruppen
-[3] Wikipedia. Kongsberg Gruppen Retrieved from https://en.wikipedia.org/wiki/Dynamic_positioning 
-[4] Kongsberg Maritime. Retrieved from https://www.kongsberg.com/maritime/
-[5] Kongsberg Defence & Aerospace. Retrieved from https://www.kongsberg.com/kda/
-[6] Kongsberg Digital. Retreived from https://www.kongsberg.com/who-we-are/kongsberg-digital/
-[7] Kongsberg 2022 Annual Report. Retreived from https://www.kongsberg.com/newsandmedia/news-archive/2023/kongsberg-gruppen-asas-annual-report-for-2022/
-[8] Offshore Engineering. Introduction to Dynamic Positioning. Retrieved from https://www.offshoreengineering.com/dp-dynamic-positioning/what-is-dynamic-positioning/
-[9] Marine Dynamic Positioning System Market, Global Opportunity Analysis and Industry Forecast, 2020-2030. Retreived from https://www.alliedmarketresearch.com/marine-dynamic-positioning-systems-market
-[10] Kongsberg Magazine Feature. The Story Behind Dynamic Positioning. Retrieved from https://www.kongsberg.com/kmagazine/2014/3/story-behind-dynamic-positioning/
-[11] Offshore Engineering. Manufacturers of Dynamic Positioning Systems. Retrieved from https://www.offshoreengineering.com/dp-dynamic-positioning/vessel-dp-system-brands-manufacturers/]
-[12] Kongsberg 2022 Annual Report. About Kongsberg Maritime. Retrieved from https://www.annual-report.kongsberg.com/about-kongsberg/business-areas/kongsberg-maritime/]
-[13] Kongsberg News and Media. Kongsberg Maritime Wins the Autonomous Shipping Awards at SMART4SEA EURPORT Awards. Retrieved from https://www.kongsberg.com/maritime/about-us/news-and-media/news-archive/2023/kongsberg-wins-autonomous-shipping-award-smart4sea-europort-awards/]
-[14] Wärtsilä Annual Report 2022. Retreived from https://www.wartsila.com/media/news/14-02-2023-wartsila-corporation-s-annual-report-2022-published-3225469
-[15] Vision Marine Technologies, Financial Reports. Retrieved from https://investors.visionmarinetechnologies.com/financial-reports/
-[16] Navis Revenue: Annual, quarterly, and historic. Retrieved from https://www.zippia.com/navis-global-careers-1149243/revenue/]
-[17] Kongsberg Magazine. The Full Picture. Fuels of the Future. Retrieved from https://www.kongsberg.com/maritime/the-full-picture-magazine/2022/7/fuels-of-the-future/
-[18] The Guardian. Earth on Verge of Five Catastrophic Tippig Points, Scientists Warn. Retrieved from 
+1. Kongsberg website. Retrieved from https://www.kongsberg.com/who-we-are/about-us/
+2. Wikipedia. Retrieved from https://en.wikipedia.org/wiki/Kongsberg_Gruppen
+3. Wikipedia. Kongsberg Gruppen Retrieved from https://en.wikipedia.org/wiki/Dynamic_positioning
+4. Kongsberg Maritime. Retrieved from https://www.kongsberg.com/maritime/
+5. Kongsberg Defence & Aerospace. Retrieved from https://www.kongsberg.com/kda
+6. Kongsberg Digital. Retreived from https://www.kongsberg.com/who-we-are/kongsberg-digital/
+7. Kongsberg 2022 Annual Report. Retreived from https://www.kongsberg.com/newsandmedia/news-archive/2023/kongsberg-gruppen-asas-annual-report-for-2022/
+8. Offshore Engineering. Introduction to Dynamic Positioning. Retrieved from https://www.offshoreengineering.com/dp-dynamic-positioning/what-is-dynamic-positioning/
+9. Marine Dynamic Positioning System Market, Global Opportunity Analysis and Industry Forecast, 2020-2030. Retreived from https://www.alliedmarketresearch.com/marine-dynamic-positioning-systems-market
+10. Kongsberg Magazine Feature. The Story Behind Dynamic Positioning. Retrieved from https://www.kongsberg.com/kmagazine/2014/3/story-behind-dynamic-positioning/
+11. Offshore Engineering. Manufacturers of Dynamic Positioning Systems. Retrieved from https://www.offshoreengineering.com/dp-dynamic-positioning/vessel-dp-system-brands-manufacturers/]
+12. Kongsberg 2022 Annual Report. About Kongsberg Maritime. Retrieved from https://www.annual-report.kongsberg.com/about-kongsberg/business-areas/kongsberg-maritime/]
+13. Kongsberg News and Media. Kongsberg Maritime Wins the Autonomous Shipping Awards at SMART4SEA EURPORT Awards. Retrieved from https://www.kongsberg.com/maritime/about-us/news-and-media/news-archive/2023/kongsberg-wins-autonomous-shipping-award-smart4sea-europort-awards/]
+14. Wärtsilä Annual Report 2022. Retreived from https://www.wartsila.com/media/news/14-02-2023-wartsila-corporation-s-annual-report-2022-published-3225469
+15. Vision Marine Technologies, Financial Reports. Retrieved from https://investors.visionmarinetechnologies.com/financial-reports/
+16. Navis Revenue: Annual, quarterly, and historic. Retrieved from https://www.zippia.com/navis-global-careers-1149243/revenue/]
+17. Kongsberg Magazine. The Full Picture. Fuels of the Future. Retrieved from https://www.kongsberg.com/maritime/the-full-picture-magazine/2022/7/fuels-of-the-future/
+18. The Guardian. Earth on Verge of Five Catastrophic Tippig Points, Scientists Warn. Retrieved from 
 https://www.theguardian.com/environment/2023/dec/06/earth-on-verge-of-five-catastrophic-tipping-points-scientists-warn
-[19] ChatGPT prompt: "what technologies use renewable energies?" Retrieved from https://chat.openai.com/c/d3714612-75cd-4d5b-82c4-b2cd71a28940
-[20] The Carbon Impact of Artificial Intelligence. Nature Machine Intelligence. Retrieved from 
-https://www.nature.com/articles/s42256-020-0219-9
+ChatGPT prompt: "what technologies use renewable energies?" Retrieved from https://chat.openai.com/c/d3714612-75cd-4d5b-82c4-b2cd71a28940
+The Carbon Impact of Artificial Intelligence. Nature Machine Intelligence. Retrieved from https://www.nature.com/articles/s42256-020-0219-9
