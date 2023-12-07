@@ -1,7 +1,7 @@
 # ai-case-study
 M1 AI Case Study
 # **KONGSBERG GRUPPEN / KONGSBERG MARITIME**
-> "Extreme Performance for Extreme Conditions"
+> *Extreme Performance for Extreme Conditions*
 
 ## Overview and Origin
 * Name of company? Kongsberg Gruppen is a Norwegian group-enterprise that develops advanced technology, claiming to place sustainability and the resolution of climate change at the core of all of its work. [1]
