@@ -83,8 +83,8 @@ They offer a range of possible solutions that could be used depending on the dom
 References: 
 
 1. Kongsberg website. Retrieved from https://www.kongsberg.com/who-we-are/about-us/
-2. Wikipedia. Retrieved from https://en.wikipedia.org/wiki/Kongsberg_Gruppen
-3. Wikipedia. Kongsberg Gruppen Retrieved from https://en.wikipedia.org/wiki/Dynamic_positioning
+2. Wikipedia. Kongsberg Gruppen. Retrieved from https://en.wikipedia.org/wiki/Kongsberg_Gruppen
+3. Wikipedia. Dynamic Positioning. Retrieved from https://en.wikipedia.org/wiki/Dynamic_positioning
 4. Kongsberg Maritime. Retrieved from https://www.kongsberg.com/maritime/
 5. Kongsberg Defence & Aerospace. Retrieved from https://www.kongsberg.com/kda
 6. Kongsberg Digital. Retreived from https://www.kongsberg.com/who-we-are/kongsberg-digital/
