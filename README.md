@@ -83,6 +83,7 @@ They could either leverage existing renewable technologies such as solar photovo
 They offer a range of possible solutions that could be used depending on the domain of their operations, given that KM works across all sectors of maritime - passenger, offshore energy, merchant, and special purpose industries.
 
 References: 
+
 [1] Kongsberg website. Retrieved from https://www.kongsberg.com/who-we-are/about-us/ 
 [2] Wikipedia. Retrieved from 
 https://en.wikipedia.org/wiki/Kongsberg_Gruppen
