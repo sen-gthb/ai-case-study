@@ -100,7 +100,6 @@ References:
 15. Vision Marine Technologies, Financial Reports. Retrieved from https://investors.visionmarinetechnologies.com/financial-reports/
 16. Navis Revenue: Annual, quarterly, and historic. Retrieved from https://www.zippia.com/navis-global-careers-1149243/revenue/]
 17. Kongsberg Magazine. The Full Picture. Fuels of the Future. Retrieved from https://www.kongsberg.com/maritime/the-full-picture-magazine/2022/7/fuels-of-the-future/
-18. The Guardian. Earth on Verge of Five Catastrophic Tippig Points, Scientists Warn. Retrieved from 
-https://www.theguardian.com/environment/2023/dec/06/earth-on-verge-of-five-catastrophic-tipping-points-scientists-warn
+18. The Guardian. Earth on Verge of Five Catastrophic Tippig Points, Scientists Warn. Retrieved from https://www.theguardian.com/environment/2023/dec/06/earth-on-verge-of-five-catastrophic-tipping-points-scientists-warn
 19. ChatGPT prompt: "what technologies use renewable energies?" Retrieved from https://chat.openai.com/c/d3714612-75cd-4d5b-82c4-b2cd71a28940
 20. The Carbon Impact of Artificial Intelligence. Nature Machine Intelligence. Retrieved from https://www.nature.com/articles/s42256-020-0219-9
