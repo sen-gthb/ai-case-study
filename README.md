@@ -37,7 +37,7 @@ The AI analytics that they use in their DP congregate data from weather and sea 
 #### Landscape
 
 * What field is the company in?
-As mentioned above, Kongsberg Gruppe is working in the sectors of maritime, defense/aerospace, oil/gas and digitalization [1]. While these sectors seem a bit paradoxical (coupling sustainability technology with weapons manufacturing?), this company provides a powerful example of AI's vast potential constructiveness and destructiveness all in one organization. 
+As mentioned above, Kongsberg Gruppe is working in the sectors of maritime, defense/aerospace, oil/gas and digitalization [1]. While these sectors seem a bit paradoxical (improving sustainability technology while manufacturing weapons?), this company provides a powerful example of AI's vast potential constructiveness and destructiveness all in one organization. 
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 Enormous advancements have been made in the past 10 years in the maritime industry in sensors, navigation systems, using virtual reality for training simulations, the application of machine learning, system integration, and the development of remote and autonomous operations. [4]
