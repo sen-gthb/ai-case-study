@@ -63,7 +63,7 @@ Some KM 2022 Annual Report metrics are: [7]
 
 
 * How is your company performing relative to competitors in the same field?
-Just looking at % growth in net sales and revenue, in 2022, Wärtsilä saw net sales increase by 22% to EUR 5,735M and order intake increased 6% to EUR 6,074M, however operations saw a -0.4% decline in revenue to EUR -26M. [14];  Marine Technologies saw revenue increase from 109.23% from USD 3,513,788 in 2021 to 7,350,946 in 2022. [15]; Navis' revenue was USD 8.5M in 2022, however 2021 comparison data was not found, nor were any full annual reports published. This may be due to Finnish regulations (it is a Finnish company), or it may be small enough to avoid regulatory requirements to publish this data. [16] We can see that the general trend across maritime industry is quickly growing, including KM. 
+Just looking at % growth in net sales and revenue, in 2022, Wärtsilä saw net sales increase by 22% to EUR 5,735M and order intake increased 6% to EUR 6,074M, however operations saw a -0.4% decline in revenue to EUR -26M. [14];  Marine Technologies saw revenue increase from 109.23% from USD 3,513,788 in 2021 to 7,350,946 in 2022. [15]; Navis' revenue was USD 8.5M in 2022, however 2021 comparison data was not found, nor were any full annual reports published. [16] This may be due to Finnish regulations (it is a Finnish company), or it may be small enough to avoid regulatory requirements to publish this data. We can see that the general trend across maritime industry is quickly growing, including KM. 
 
 ###### Recommendations
 
