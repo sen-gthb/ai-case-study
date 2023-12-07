@@ -1,7 +1,6 @@
 # ai-case-study
 M1 AI Case Study
-# TITLE
-**KONGSBERG GRUPPEN / KONGSBERG MARITIME**
+# **KONGSBERG GRUPPEN / KONGSBERG MARITIME**
 > "Extreme Performance for Extreme Conditions"
 
 ## Overview and Origin
