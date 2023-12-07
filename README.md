@@ -14,9 +14,7 @@ Kongsberg was founded March 20, 1814. They went public in 1993, however are most
 Poul Steenstrup [2] founded the company, which was originally called Kongsberg Våpenfabrikk (Kongsberg Arms Factory)
 
 * How did the idea for the company (or project) come about?
-Kongsberg initially manufactured rifles for the Norwegian military, showing their early prowess for technological innovation in the late 1800s with advancements in rifle technology. They began branching out into other sectors in 1918 and continued to expand into domains of advanced technology and manufacturing through the 1970s, when they began to establish themselves as innovators in maritime and oil/gas through their work in dynamic positioning (DP) and subsea installations. Today, Kongsberg applies their advanced technologies in domains that entail "extreme conditions," from sea to space. [2, 3] 
-
-The Kongsberg Gruppen is currently comprised of 3 main groups: Kongsberg Maritime [4], Kongsberg Defence & Aerospace [5], and Kongsberg Digital [6]. Each group is leveraging AI in many ways, however currently its maritime branch accounts 80% of its overall operations, so for this case study I will focus on Kongsberg Maritime (KM), particularly their DP solution. 
+Kongsberg initially manufactured rifles for the Norwegian military, showing their early prowess for technological innovation in the late 1800s with advancements in rifle technology. They began branching out into other sectors in 1918 and continued to expand into domains of advanced technology and manufacturing through the 1970s, when they began to establish themselves as innovators in maritime and oil/gas through their work in dynamic positioning (DP) and subsea installations. Today, Kongsberg applies their advanced technologies in domains that entail "extreme conditions," from sea to space. [2, 3] The Kongsberg Gruppen is currently comprised of 3 main groups: Kongsberg Maritime [4], Kongsberg Defence & Aerospace [5], and Kongsberg Digital [6]. Each group is leveraging AI in many ways, however currently its maritime branch accounts 80% of its overall operations, so for this case study I will focus on Kongsberg Maritime (KM), particularly their DP solution. 
 
 * How is the company funded? How much funding have they received?
 KM's primary sources of revenue come from operations, contracts, and research & development. According to KM's 2022 annual report, the maritime group had a yearly total revenue of MNOK 18,978 [7]
@@ -24,9 +22,7 @@ KM's primary sources of revenue come from operations, contracts, and research & 
 ### Business Activities
 
 * What specific problem is the company or project trying to solve?
-The primary objective of KM is to leverage innovation and advanced technologies in maritime operations while 1) mitigating climate change by reducing carbon emissions, and 2) improving safety.  One primary example is their aforementioned DP solution, which enables ships to remain in position by relying on engine and propellor power rather than an anchor. [8]
-
-KM's DP was first launched in 1975 but has continued to be innovated to now where it integrates AI to leverage the above mentioned data towards real time decision-making and autonomous adjustments to maintain vessel station, even in very challenging sea conditions. [4]
+The primary objective of KM is to leverage innovation and advanced technologies in maritime operations while 1) mitigating climate change by reducing carbon emissions, and 2) improving safety.  One primary example is their aforementioned DP solution, which enables ships to remain in position by relying on engine and propellor power rather than an anchor. [8] KM's DP was first launched in 1975 but has continued to be innovated to now where it integrates AI to leverage the above mentioned data towards real time decision-making and autonomous adjustments to maintain vessel station, even in very challenging sea conditions. [4]
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 KM products and services span across passenger, offshore energy, merchant, and special purpose industries of maritime, and they claim their products are operating on more than 30,000 vessels worldwide. [4] Just the global DP system market alone, which was valued at $5.6 billion in 2020, is anticipated to grow to $17.6 billion within the decade. [9] 
@@ -72,9 +68,7 @@ In addition, KM was awarded the prestigious Autonomous Shipping Award at the 202
 
 
 * How is your company performing relative to competitors in the same field?
-Just looking at % growth in net sales and revenue, in 2022, Wärtsilä saw net sales increase by 22% to EUR 5,735M and order intake increased 6% to EUR 6,074M, however operations saw a -0.4% decline in revenue to EUR -26M. [14];  Marine Technologies saw revenue increase from 109.23% from USD 3,513,788 in 2021 to 7,350,946 in 2022. [15]; Navis' revenue was USD 8.5M in 2022, however 2021 comparison data was not found, nor were any full annual reports published. This may be due to Finnish regulations (it is a Finnish company), or it may be small enough to avoid regulatory requirements to publish this data. [16] 
-
-We can see that the general trend across maritime industry is quickly growing, including KM. 
+Just looking at % growth in net sales and revenue, in 2022, Wärtsilä saw net sales increase by 22% to EUR 5,735M and order intake increased 6% to EUR 6,074M, however operations saw a -0.4% decline in revenue to EUR -26M. [14];  Marine Technologies saw revenue increase from 109.23% from USD 3,513,788 in 2021 to 7,350,946 in 2022. [15]; Navis' revenue was USD 8.5M in 2022, however 2021 comparison data was not found, nor were any full annual reports published. This may be due to Finnish regulations (it is a Finnish company), or it may be small enough to avoid regulatory requirements to publish this data. [16] We can see that the general trend across maritime industry is quickly growing, including KM. 
 
 ###### Recommendations
 
