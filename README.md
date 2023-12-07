@@ -4,8 +4,7 @@ M1 AI Case Study
 > "Extreme Performance for Extreme Conditions"
 
 ## Overview and Origin
-* Name of company
-Kongsberg Gruppen is a Norwegian group-enterprise that develops advanced technology, claiming to place sustainability and the resolution of climate change at the core of all of its work. [1]
+* Name of company? Kongsberg Gruppen is a Norwegian group-enterprise that develops advanced technology, claiming to place sustainability and the resolution of climate change at the core of all of its work. [1]
 
 * When was the company incorporated?
 Kongsberg was founded March 20, 1814. They went public in 1993, however are mostly owned by the Norwegian government. [2] 
@@ -28,12 +27,10 @@ The primary objective of KM is to leverage innovation and advanced technologies 
 KM products and services span across passenger, offshore energy, merchant, and special purpose industries of maritime, and they claim their products are operating on more than 30,000 vessels worldwide. [4] Just the global DP system market alone, which was valued at $5.6 billion in 2020, is anticipated to grow to $17.6 billion within the decade. [9] 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
 DP technology in general has enabled big leaps in the safety and range of offshore operations (which can consist of activities such as research, offshore drilling and renewable energy installations, passenger and shipping transport, etc.) by improving maneuverability of ships and enabling navigation to deeper waters that are too deep or too congested either above or below waters for anchors to be able to be used.  At the same time, traditional DP systems consume a great deal resources such as fuel, training, and maintenance costs. [9]
 While many companies offer DP solutions, KM's are superior in that they have maximized resource efficiency into their current technology, [10] and is even backing the Paris Agreement's initiative to become carbon neutral by 2050. [7] While the other companies do claim to optimize fuel efficiency in their DP solutions, none have gone so far as to place these objective squarely at the center of their organizational objectives the way KM has, and none appear to have enabled as much efficiency into their technology (though I was not able to find actual numbers to compare). This lagging and lack of foresight by other leading DP manufacturers may ultimately lead to substantial future market loss.  
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 The AI analytics that they use in their DP congregate data from weather and sea conditions, navigation feedback, sensors, and vessel performance metrics to optimize safety and efficiency. [4] Further specifics were not available. 
 
 
@@ -55,7 +52,6 @@ Aside from KM who leads DP solution implementation, Wärtsilä, Marine Technolog
 KM operates in 34 countries, and employed 6,583 people at the end of Q3 2023. [12]
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
 Some of the core metrics in the maritime industry include financial (revenue, ROI, and order backlog, etc.), innovation (research & development), and operational metrics (quality of services and safety). In addition, some companies also track environmental and sustainability metrics (emissions and advancement of green technologies).
 
 Some KM 2022 Annual Report metrics are:  [7]
@@ -63,8 +59,7 @@ Some KM 2022 Annual Report metrics are:  [7]
 -Order backlog increased 43.95% (from MNOK 12,960 in 2021 to 18,641 in 2022)
 -Improved maritime safety through 34.43% increase in sales in their sensors & robotics portfolio which offers mapping and monitoring solutions. (MNOK 3,050 in 2021 to to 4,100 in 2022)
 -Emissions of in-house carbon decreased by 3%.
-
-In addition, KM was awarded the prestigious Autonomous Shipping Award at the 2023 SMART4SEA EUROPORT Awards for their technological advancements in autonomous shipping. [13]
+-In addition, KM was awarded the prestigious Autonomous Shipping Award at the 2023 SMART4SEA EUROPORT Awards for their technological advancements in autonomous shipping. [13]
 
 
 * How is your company performing relative to competitors in the same field?
@@ -73,7 +68,6 @@ Just looking at % growth in net sales and revenue, in 2022, Wärtsilä saw net s
 ###### Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
 KM has expressed strong interest in "future proofing" through sustainability initiatives through alternative fuels and renewable energies, however developing renewables and moving towards carbon neurtrality demands the investment a great deal of capital and resources. [17] They have therefore focused most of their innovation developments around increasing efficiency with technologies that still rely upon petroleum products and other non-renewable resources. This is definitely good to a point, but despite the costs I would advise them to invest extremely aggressively in the development of carbon-neutral solutions now to power their advanced technologies. Developing AI produces an astounding amount of carbon when powered by non-renewable resources [20], and integrating renewables would profoundly hasten the achievement of going carbon neutral by 2050. 
 
 * Why do you think that offering this product or service would benefit the company?
