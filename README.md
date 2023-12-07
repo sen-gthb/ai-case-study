@@ -55,7 +55,7 @@ KM operates in 34 countries, and employed 6,583 people at the end of Q3 2023. [1
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 Some of the core metrics in the maritime industry include financial (revenue, ROI, and order backlog, etc.), innovation (research & development), and operational metrics (quality of services and safety). In addition, some companies also track environmental and sustainability metrics (emissions and advancement of green technologies).
 
-Some KM 2022 Annual Report metrics are:  [7]
+Some KM 2022 Annual Report metrics are: [7]
 1. KM revenue grew 14.97% (from MNOK 16,507 in 2021 to 18,878 in 2022)
 2. Order backlog increased 43.95% (from MNOK 12,960 in 2021 to 18,641 in 2022)
 3. Improved maritime safety through 34.43% increase in sales in their sensors & robotics portfolio which offers mapping and monitoring solutions. (MNOK 3,050 in 2021 to to 4,100 in 2022)
