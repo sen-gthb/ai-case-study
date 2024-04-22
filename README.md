@@ -4,12 +4,15 @@
 
 ## Overview and Origin
 * Name of company?
+* 
 Kongsberg Gruppen is a Norwegian group-enterprise that develops advanced technology, claiming to place sustainability and the resolution of climate change at the core of all of its work. [1]
 
 * When was the company incorporated?
+* 
 Kongsberg was founded March 20, 1814. They went public in 1993, however are mostly owned by the Norwegian government. [2] 
 
 * Who are the founders of the company?
+* 
 Poul Steenstrup founded the company, which was originally called Kongsberg Våpenfabrikk (Kongsberg Arms Factory) [2]
 
 * How did the idea for the company (or project) come about?
