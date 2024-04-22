@@ -1,4 +1,7 @@
 # ai-case-study
+This case study accesses reports, publications, and online resources to showcase a company that is leveraging AI. Technical resources used include GitHub, Terminal, Anaconda, and virtual environments.
+
+ 
 # **KONGSBERG GRUPPEN / KONGSBERG MARITIME**
 > *Extreme Performance for Extreme Conditions*
 
